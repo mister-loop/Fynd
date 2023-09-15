@@ -1,2 +1,2 @@
 # Fynd
-It is a very lighter extension
+It is a very lighter and very fast
