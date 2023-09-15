@@ -1,2 +1,2 @@
 # Fynd
-testing repository 1
+It is a very lighter extension
